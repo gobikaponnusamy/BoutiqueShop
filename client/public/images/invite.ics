@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20230404T160000
+DTEND;TZID=Asia/Kolkata:20230404T164500
+DTSTAMP:20230404T065451Z
+ORGANIZER;CN=pradhiksha@guvi.in:mailto:pradhiksha@guvi.in
+UID:4agmlnietjl8g6h6gc3sgs0m6g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ashwinthk.20cse@kongu.edu;X-NUM-GUESTS=0:mailto:ashwinthk.20cse@kon
+ gu.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=harishankher@guvi.in;X-NUM-GUESTS=0:mailto:harishankher@guvi.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=solomonelisha@guvi.in;X-NUM-GUESTS=0:mailto:solomonelisha@guvi.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=pradhiksha@guvi.in;X-NUM-GUESTS=0:mailto:pradhiksha@guvi.in
+X-GOOGLE-CONFERENCE:https://meet.google.com/gdm-zxee-ixu
+X-MICROSOFT-CDO-OWNERAPPTID:-1060996930
+CREATED:20230404T065449Z
+DESCRIPTION:Dear Candidate\,\n\nGreetings From GUVI!\n\nWe were impressed b
+ y your previous round performance for the role of Software Developer Associ
+ ate at our company GUVI Geek Networks.\n \nWe would like to invite you to a
+  round of interview through Google meet. Good Luck!\n \nFeel free to reach 
+ out the below contact  in case of any queries regarding the interview\, inc
+ luding anything specific you would like to know about.\n \nSingle Point of 
+ Contact: Solomon Elisha Caleb\, Executive - HR & Ops\nGUVI Geek Network Pri
+ vate Ltd. RTBI - IITM Research Park | Chennai – 600113.\nMobile: +91 996216
+ 9460\nMail: solomonelisha@guvi.in\nThanks and Regards\,\nHR Team\n\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-\nJoin with Google Meet: https://meet.google.com/gdm-zxee-ixu\nOr dial
+ : (US) +1 980-292-2443 PIN: 131975725#\nMore phone numbers: https://tel.mee
+ t/gdm-zxee-ixu?pin=1419675713352&hs=7\n\nLearn more about Meet at: https://
+ support.google.com/a/users/answer/9282720\n\nPlease do not edit this sectio
+ n.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~::~:~::-
+LAST-MODIFIED:20230404T065449Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:L1 Technical Interview: Ashwinth K - Software Development Associate
+  Intern at GUVI
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
